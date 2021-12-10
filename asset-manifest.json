@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/homework/static/css/main.ae394af2.chunk.css",
-    "main.js": "/homework/static/js/main.09816ac7.chunk.js",
-    "main.js.map": "/homework/static/js/main.09816ac7.chunk.js.map",
-    "runtime-main.js": "/homework/static/js/runtime-main.c49b04a8.js",
-    "runtime-main.js.map": "/homework/static/js/runtime-main.c49b04a8.js.map",
-    "static/js/2.490fbe74.chunk.js": "/homework/static/js/2.490fbe74.chunk.js",
-    "static/js/2.490fbe74.chunk.js.map": "/homework/static/js/2.490fbe74.chunk.js.map",
+    "main.css": "/homework/static/css/main.d2af6863.chunk.css",
+    "main.js": "/homework/static/js/main.0250f809.chunk.js",
+    "main.js.map": "/homework/static/js/main.0250f809.chunk.js.map",
+    "runtime-main.js": "/homework/static/js/runtime-main.094ab87e.js",
+    "runtime-main.js.map": "/homework/static/js/runtime-main.094ab87e.js.map",
+    "static/js/2.b0f3a881.chunk.js": "/homework/static/js/2.b0f3a881.chunk.js",
+    "static/js/2.b0f3a881.chunk.js.map": "/homework/static/js/2.b0f3a881.chunk.js.map",
     "index.html": "/homework/index.html",
-    "precache-manifest.77c96bb422be824c21cc5e5b9823597e.js": "/homework/precache-manifest.77c96bb422be824c21cc5e5b9823597e.js",
-    "service-worker.js": "/homework/service-worker.js",
-    "static/css/main.ae394af2.chunk.css.map": "/homework/static/css/main.ae394af2.chunk.css.map",
-    "static/js/2.490fbe74.chunk.js.LICENSE.txt": "/homework/static/js/2.490fbe74.chunk.js.LICENSE.txt"
+    "static/css/main.d2af6863.chunk.css.map": "/homework/static/css/main.d2af6863.chunk.css.map",
+    "static/js/2.b0f3a881.chunk.js.LICENSE.txt": "/homework/static/js/2.b0f3a881.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c49b04a8.js",
-    "static/js/2.490fbe74.chunk.js",
-    "static/css/main.ae394af2.chunk.css",
-    "static/js/main.09816ac7.chunk.js"
+    "static/js/runtime-main.094ab87e.js",
+    "static/js/2.b0f3a881.chunk.js",
+    "static/css/main.d2af6863.chunk.css",
+    "static/js/main.0250f809.chunk.js"
   ]
 }
