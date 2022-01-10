@@ -1,10 +1,13 @@
+import HW11 from "../../h11/HW11";
+import HW7 from "../../h7/HW7";
 
 
 export function Junior() {
     return (
         <div>
-           Junior
-            {/*<HW6/>*/}
+         <HW7/>
+
+           {/* <HW11/>*/}
 
         </div>
     )
